@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\Memcalc\Memcalc\bin\Debug\netcoreapp3.1\Memcalc.exe
+C:\Users\pc\source\repos\Memcalc\Memcalc\bin\Debug\netcoreapp3.1\Memcalc.deps.json
+C:\Users\pc\source\repos\Memcalc\Memcalc\bin\Debug\netcoreapp3.1\Memcalc.runtimeconfig.json
+C:\Users\pc\source\repos\Memcalc\Memcalc\bin\Debug\netcoreapp3.1\Memcalc.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Memcalc\Memcalc\bin\Debug\netcoreapp3.1\Memcalc.dll
+C:\Users\pc\source\repos\Memcalc\Memcalc\bin\Debug\netcoreapp3.1\Memcalc.pdb
+C:\Users\pc\source\repos\Memcalc\Memcalc\obj\Debug\netcoreapp3.1\Memcalc.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Memcalc\Memcalc\obj\Debug\netcoreapp3.1\Memcalc.AssemblyInfo.cs
+C:\Users\pc\source\repos\Memcalc\Memcalc\obj\Debug\netcoreapp3.1\Memcalc.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Memcalc\Memcalc\obj\Debug\netcoreapp3.1\Memcalc.dll
+C:\Users\pc\source\repos\Memcalc\Memcalc\obj\Debug\netcoreapp3.1\Memcalc.pdb
+C:\Users\pc\source\repos\Memcalc\Memcalc\obj\Debug\netcoreapp3.1\Memcalc.genruntimeconfig.cache
